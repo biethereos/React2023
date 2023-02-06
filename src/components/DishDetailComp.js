@@ -4,7 +4,6 @@ import dateFormat from 'dateformat';
 export default class DishDetail extends Component {
   constructor(props) {
     super(props);
-
     this.state = {};
   }
 
